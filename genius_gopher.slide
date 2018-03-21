@@ -1,0 +1,57 @@
+GEnius Gopher
+Introduction to Go
+15:04 21 Mar 2018
+Tags: go, golang, introduction
+
+Alwin Doss
+Senior Software Engineer, GE Healthcare Digital
+alwin.doss@ge.com
+Twitter: @alwindoss
+Github: alwindoss
+Please reach out if you need help with Go
+
+* Who is a GEnius Gopher
+.image ./imgs/gopher_coding.gif
+
+* Why another Language?
+- C
+- C++
+- Ruby
+- Python
+- Java
+- Clojure
+- Scala
+- Haskell
+- List goes on
+
+* Let's see
+- Hardware limitations
+    - Moore's law is failing
+.image ./imgs/moores_law_failing.png
+
+* Let's continue to see
+- Build time kills Me :'(
+.image ./imgs/code_is_compiling.png
+
+* Let's continue to see
+- I haven't met a genius *yet* who claims he has perfected multi-threaded programming
+.image ./imgs/multi_threading_fails.jpg
+
+* Let's continue to see
+- No time to learn a new language
+.image ./imgs/simply_no_time.jpg
+
+* Seriously
+- Go is simple
+    - You can really become an expert in Go
+.image ./imgs/code_readability_efficiency.png 450 600
+
+
+* Seriously
+- Very easy to write & comprehend multi threaded apps
+.image ./imgs/efficient_concurrency.png
+
+* Seriously
+- Built for the Cloud
+.image ./imgs/golang_for_cloud.jpg
+.link https://github.com/golang/go/wiki/GoUsers Who uses Go?
