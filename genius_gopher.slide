@@ -43,7 +43,7 @@ Please reach out if you need help with Go
 
 * Seriously
 - Go is simple
-    - You can really become an expert in Go
+    - You *can* become an expert in Go. Really!
 .image ./imgs/code_readability_efficiency.png 450 600
 
 
@@ -55,3 +55,11 @@ Please reach out if you need help with Go
 - Built for the Cloud
 .image ./imgs/golang_for_cloud.jpg
 .link https://github.com/golang/go/wiki/GoUsers Who uses Go?
+
+* Enough marketing. Let's get started!
+
+* Why do I love Go?
+.image ./imgs/why_i_love_go.png
+
+* First Program
+.play -numbers ./code/first.go
